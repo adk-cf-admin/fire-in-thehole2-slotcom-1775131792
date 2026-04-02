@@ -1,0 +1,19 @@
+{
+  "name": "Fire in the Hole 2",
+  "short_name": "Fire in the Hole 2",
+  "theme_color": "",
+  "background_color": "#1E1615",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775131148-logo-fire-in-the-hole-2-76d35d21df-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

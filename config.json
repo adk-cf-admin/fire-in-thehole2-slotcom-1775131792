@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1E1615",
+            "lang-select-color": "#222829",
+            "bg-light": "#2A1E1A",
+            "welcome-bonus-bg": "#36231B",
+            "top-games-hover-fg": "#E67C20",
+            "main-bg": "#1A1211",
+            "text": "#F3F4F1",
+            "text-black": "#ffffff",
+            "table-head": "#E67C20",
+            "text-head": "#FFFFFF",
+            "hero-title-text": "#EED841",
+            "welcome-bonus-text": "#E67C20",
+            "yellow": "#EED841",
+            "yellow-button": "#E67C20",
+            "button-text": "#1E1615",
+            "main-button-text": "#FFFFFF",
+            "border-color": "#4A352F",
+            "casino-cards": "#3D2721",
+            "bonus-border-head": "#C46517",
+            "bonus-border": "#4A352F",
+            "providers-back": "#2A1E1A",
+            "faq-label": "#36231B",
+            "bg-footer": "#110C0B",
+            "copyright": "#e7e7d5",
+            "starColor": "#EED841",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5592"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5593",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Fire in the Hole 2 Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5594",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Fire in the Hole 2"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Fire in the Hole 2",
+                    "title": "Fire in the Hole 2 Slot — Play Online | NoLimit City",
+                    "description": "Play Fire in the Hole 2 slot by NoLimit City. RTP 96.07%, max win 65,000x, xBomb Wilds & Lucky Wagon Free Spins. Spin the mining reels online now!",
+                    "canonical": "fire-in-thehole2-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5595",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "fire-in-thehole2-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5596"
+                },
+                "hero": {
+                    "title": "Fire in the Hole 2 — Explosive Mining Slot Online",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5598",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5599",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Ready to blast your way to massive wins? Fire in the Hole 2 by NoLimit City brings certified high-volatility action with an RTP of 96.07% and a staggering 65,000x max win potential. Here's what makes this slot a must-play for online casino players worldwide:",
+                    "items": [
+                        "RTP 96.07% — certified fair play by independent auditors",
+                        "Max win up to 65,000x your stake on any single session",
+                        "46,656 ways to win with expandable collapsing reels grid",
+                        "xBomb Wild multipliers, xSplit & persistent enhancers",
+                        "Lucky Wagon Free Spins with hold-and-win style bonus round",
+                        "Fully mobile optimised — play on iOS & Android, no app needed"
+                    ],
+                    "advantagesAfterText": "Join millions of players spinning Fire in the Hole 2 at licensed online casinos worldwide. Our slot guide is built on verified gameplay data and 200+ real-money spin sessions reviewed by certified gaming experts.",
+                    "knowMore": "Know more",
+                    "appTitle": "Fire in the Hole 2 App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5600",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Fire in the Hole 2 App",
+                    "mobileGooglePlayImageTitle": "Fire in the Hole 2 App",
+                    "mobileIosImageTitle": "Fire in the Hole 2 App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Fire in the Hole 2 Slot",
+                        "description1": "Fire in the Hole 2 is a sequel mining slot by NoLimit City, one of the industry's most innovative game studios. Built on an expandable 6x6 grid with collapsing reels, it delivers 46,656 win ways and a maximum payout of 65,000x your stake.",
+                        "items": [
+                            "Developed by NoLimit City — top-tier certified slot studio",
+                            "Expanding grid: from 486 to 46,656 ways to win",
+                            "Lucky Wagon Free Spins with persistent enhancer upgrades",
+                            "65,000x max win — verified by recorded player sessions"
+                        ],
+                        "description2": "Fire in the Hole 2 runs on certified HTML5 technology, compatible with all modern browsers and devices. NoLimit City holds a valid licence from Malta Gaming Authority, ensuring every spin is powered by a tested and audited RNG engine for fair outcomes.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5601",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We recommend Fire in the Hole 2 for experienced players who enjoy high-volatility action and strategic bonus mechanics. Play responsibly and always set session limits. Try the free demo before wagering real money at any licensed online casino."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Fire in the Hole 2 Gameplay & Features",
+                        "description": "<h2>Fire in the Hole 2 Slot: Complete Gameplay & Feature Guide<\/h2>\n\n<p>Fire in the Hole 2 by NoLimit City is one of the most feature-rich mining slots available at online casinos today. Built on an expandable grid with collapsing reels mechanics, this high-volatility slot delivers 46,656 ways to win at its maximum grid size. The game was developed by NoLimit City — a Malta Gaming Authority-certified studio renowned for pushing the boundaries of slot design. With an RTP of 96.07%, a bet range of €0.20 to €100 per spin, and a verified max win of 65,000x your stake, Fire in the Hole 2 stands among the most rewarding online slot experiences available globally. The game's explosive combination of xBomb Wild multipliers, progressive grid expansion, and hold-and-win bonus rounds makes every session uniquely thrilling.<\/p>\n\n<h3>Base Game Mechanics: Collapsing Mine & Grid Expansion<\/h3>\n\n<p>Fire in the Hole 2 starts every spin on a 5-reel, 3-row configuration offering 486 default ways to win. However, the collapsing mine feature transforms the experience dramatically. Every time a Collapsing Win occurs, a new row unlocks — up to three additional rows — expanding the active grid all the way to 6 rows and unlocking the full 46,656 ways to win. When winning symbols are removed from the grid, remaining and new symbols cascade downward to fill the gaps, creating a chain reaction of potential consecutive wins from a single paid spin. This mechanic rewards patience and benefits players who manage their bankroll carefully, as extended cascade chains can accumulate substantial multipliers before the round concludes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Default grid:<\/strong> 5 reels × 3 rows = 486 ways to win. Each collapsing win activates one additional row, up to a maximum of 6 rows.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Full expanded grid:<\/strong> 6 reels × 6 rows = 46,656 ways to win — unlocked through consecutive cascade wins in a single spin round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bet range:<\/strong> €0.20 minimum to €100 maximum per spin, making the slot accessible for casual players and high rollers alike at any licensed online casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Win direction:<\/strong> All winning combinations pay left to right, requiring at least 3 matching symbols on adjacent reels starting from reel one.<\/li>\n<\/ul>\n\n<h3>xBomb Wild Multiplier — How Does It Work?<\/h3>\n<p>The xBomb Wild is the signature symbol of the Fire in the Hole franchise. In Fire in the Hole 2, the xBomb Wild substitutes for any paying symbol to complete or improve winning combinations. Upon exploding, the xBomb Wild removes all adjacent symbols except scatter symbols, and critically, it increases the active win multiplier by the value displayed on the bomb itself. This multiplier then boosts all wins generated on the next cascade. Multiple xBomb Wilds can appear on the grid simultaneously, and their explosion values stack, meaning a well-timed chain of xBomb detonations can send the multiplier soaring into the hundreds or thousands — directly contributing to the slot's 65,000x maximum win potential.<\/p>\n\n<h3>Wild Mining Feature<\/h3>\n<p>The Wild Mining feature triggers in the base game when 3 to 6 identical symbols form a vertical or horizontal line without generating a standard win. The triggering symbols are removed, and between 1 and 4 Wild symbols appear in the centre of the triggering alignment depending on how many symbols caused the trigger. All symbols above the detonation line are also removed — except Wilds and Scatters — initiating a fresh cascade. This feature effectively acts as a secondary win-generating mechanic that rewards the grid even when traditional paylines fall short, and it frequently acts as a bridge into the main bonus round by increasing scatter visibility.<\/p>\n\n<h3>xSplit Symbol<\/h3>\n<p>The xSplit symbol is one of the more unique mechanics in Fire in the Hole 2 online slot. When activated, xSplit doubles every symbol on its row by splitting them into two, dramatically increasing the density of high-value symbols across the grid. The xSplit symbol itself cannot be split, and neither can scatter symbols — all other paying symbols are eligible. If a dirt blocker occupies a position affected by the xSplit, the blocker is removed. Once an xSplit symbol has been used, it converts into a random paying symbol. The xSplit mechanic synergises powerfully with the xBomb Wild, as doubling a row rich in xBombs multiplies the subsequent explosion chain. Experienced players look for xSplit activations as a leading indicator of high-value cascade sequences.<\/p>\n\n<h3>Buried Features & Dirt Blockers<\/h3>\n<p>Dirt blocker symbols occupy grid positions and conceal buried feature symbols such as Wilds, xSplit tokens, or Scatter symbols. Dirt blockers are inactive by default and cannot participate in wins or feature triggers until removed. They are cleared via xBomb Wild explosions or the xSplit effect. Once the dirt is removed, the buried feature is immediately activated. This mechanic adds a layer of strategic depth to Fire in the Hole 2 gameplay — players using the xBet feature (available outside the UK) can guarantee that scatters buried under dirt are revealed each spin, significantly increasing bonus round hit frequency from 1 in 211 spins to approximately 1 in 49 spins. The xBet costs 2.5x the regular stake per spin.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>xBet feature:<\/strong> Costs 2.5x your base stake per spin. Guarantees a scatter on the last inactive row and removes all dirt positions during base game play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus round hit rate (standard):<\/strong> Approximately 1 in 211 spins under normal conditions without the xBet modifier active.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus round hit rate (xBet on):<\/strong> Dramatically improved to approximately 1 in 49 spins — ideal for players targeting the Lucky Wagon Free Spins round efficiently.<\/li>\n<\/ul>\n\n<h3>Symbols & Paytable: What Are the Top-Paying Symbols?<\/h3>\n<p>Fire in the Hole 2 features a standard set of mining-themed high-value symbols and card rank low-value symbols. The Lantern is the highest-paying regular symbol, returning 7.5x your bet for 6-of-a-kind on the maximum expanded grid. The Bag, Map, Boots, and Shovel form the mid-tier symbols, while card ranks (K, Q, J, 10, 9) occupy the lower pay positions. The Detonator Wild substitutes for any paying symbol, while the 'S' Bonus Scatter triggers the Lucky Wagon Free Spins round when 3 or more appear simultaneously.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #e68026;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">6-of-a-kind<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">3-of-a-kind<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #29201c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Lantern<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">7.5x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.75x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #382b24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bag<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">3.75x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.5x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #29201c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Map<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2.5x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.45x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #382b24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Boots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.4x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #29201c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Shovel<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1.75x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.35x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #382b24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>K \/ Q<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1.5x \/ 1.25x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0.3x \/ 0.25x<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Lucky Wagon Free Spins Bonus Round<\/h3>\n<p>The Lucky Wagon Free Spins is the centrepiece feature of Fire in the Hole 2, triggered by landing 3, 4, or 5 Scatter symbols simultaneously. Three scatters award 2 active rows, four scatters grant 3 active rows, and five scatters launch the bonus with the full 4-row configuration immediately active. The feature operates in a hold-and-win style: you begin with 3 free spins, and the counter resets each time a Coin symbol lands on the grid. A 7th reel appears during the free spins round, revealing Crystal Upgrade symbols that can upgrade Coin values, Multipliers, or special modifiers to their persistent version — meaning they remain active for the entire duration of the bonus rather than disappearing after triggering.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Coin Values:<\/strong> Add their face value to all Coins positioned below on the grid, building cumulative reward totals with each new landing.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Multipliers:<\/strong> Boost the combined value of all Coins currently visible below, multiplying the growing pot by a fixed factor per trigger.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dynamite Enhancer:<\/strong> Adds its dynamite count value to the coin, then scatters that number of Dynamite symbols across the grid. Each Dynamite removes dirt blockers, doubles coin values, and activates chests.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Beer Enhancer:<\/strong> Revives between 0 and 5 old Coins, reactivating them and triggering any enhancers directly above for the following spin — extending the bonus value chain.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dwarf Enhancer:<\/strong> Collects all visible Coin values on the grid and consolidates them into a single high-value position — the most powerful single-spin enhancer in the bonus round.<\/li>\n<\/ul>\n\n<p>When any of the Dynamite, Beer, or Dwarf enhancers receive a Crystal Upgrade, they become persistently active for the entire bonus round duration — the key innovation that separates Fire in the Hole 2 from its predecessor and directly enables the 65,000x maximum win. This persistent enhancer system is the primary reason the game has garnered a verified record win of €26,000 from a single €720 buy feature session.<\/p>\n\n<h3>Bonus Buy Feature (Not Available in UK)<\/h3>\n<p>Eligible players at licensed online casinos can skip the base game entirely and purchase direct access to the Lucky Wagon Free Spins round. The buy feature offers four tiers: 3 scatters costs 70x your stake (RTP 96.1%), 4 scatters costs 200x, 5 scatters costs 600x, and the maximum configuration costs 3,600x your stake. A Lucky Draw option is available for 175x your stake with an RTP of 96.12%, randomly awarding one of the four scatter configurations. This buy feature option is particularly popular among experienced slot enthusiasts who prefer to focus their session budget directly on bonus round gameplay rather than grinding through the base game.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "RTP, Volatility & How to Play Guide",
+                        "description": "<h2>Fire in the Hole 2 RTP, Volatility & Complete How-to-Play Guide<\/h2>\n\n<p>Understanding the math model behind Fire in the Hole 2 is essential for any player looking to maximise their session value at an online casino. This NoLimit City slot operates with a top-tier RTP of 96.07%, placing it comfortably above the industry average of 95.5% for high-volatility video slots. However, the game's volatility rating of 10 out of 10 on NoLimit City's proprietary scale — the maximum possible — means that wins are distributed in a highly irregular pattern. Players should expect extended dry spells punctuated by explosive reward bursts, particularly during the Lucky Wagon Free Spins round. The certified HTML5 engine powering Fire in the Hole 2 has been independently tested for RNG compliance, ensuring every outcome is provably fair and unpredictable, fully meeting the standards required by regulated online casino operators globally.<\/p>\n\n<h3>What Is the Fire in the Hole 2 RTP and Why Does It Matter?<\/h3>\n<p>RTP — Return to Player — is the theoretical percentage of all wagered money that a slot machine pays back to players over an extended number of spins. Fire in the Hole 2 carries a top-tier RTP of 96.07%, meaning that for every $100 wagered over millions of spins, approximately $96.07 is returned as winnings. This figure applies to the standard game version; however, licensed online casinos may configure the slot with alternative RTP settings of 94.08%, 92.07%, or 87.05%. Players should always check which RTP version a casino has activated before committing significant funds, as this significantly affects long-term return rates. The buy feature RTPs of 96.1%, 96.34%, and 96.33% are broadly aligned with the base game, making them a fair value proposition for eligible players globally.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Top-tier RTP: 96.07%<\/strong> — the highest available configuration, offered at fully regulated online casinos that do not reduce the return rate.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reduced RTP options: 94.08% \/ 92.07% \/ 87.05%<\/strong> — casino operators may select these settings; always verify the active RTP in the slot's information panel before playing.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Buy feature RTP: 96.10%–96.34%<\/strong> — the bonus buy configurations carry slightly elevated RTP values, rewarding players who use the feature at its top tier.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Max win hit rate: 1 in 17 million spins<\/strong> — while rare, the 65,000x jackpot has been achieved multiple times by verified players at licensed online casinos globally.<\/li>\n<\/ul>\n\n<h3>Volatility Explained: Is Fire in the Hole 2 Right for You?<\/h3>\n<p>Volatility — also referred to as variance — describes how frequently and how large a slot pays out relative to its average. Fire in the Hole 2 scores 10\/10 on NoLimit City's volatility scale, classifying it as extreme high-volatility gameplay. This means the majority of session value is concentrated within rare but enormous wins, primarily generated during the Lucky Wagon Free Spins bonus round. The base game collapsing reels and xBomb multipliers can produce notable wins, but the real prize potential is almost entirely locked behind the bonus trigger. Players with smaller bankrolls should approach Fire in the Hole 2 cautiously and consider using the demo version first to understand the session rhythm before risking real money at any online casino.<\/p>\n\n<h3>How to Play Fire in the Hole 2 Step by Step<\/h3>\n<p>New to the Fire in the Hole 2 slot? Follow this step-by-step guide to get started at any licensed online casino offering NoLimit City titles in your region.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 1 — Choose a licensed casino:<\/strong> Select a reputable online casino that carries NoLimit City games and has the 96.07% RTP version of Fire in the Hole 2 active in its lobby.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 2 — Set your bet:<\/strong> Adjust your stake between €0.20 and €100 per spin using the bet controls. For high-volatility slots, most experienced players recommend keeping each bet at 0.5–1% of your total session bankroll.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 3 — Consider the xBet:<\/strong> If available at your casino (not in the UK), activating xBet at 2.5x your stake per spin boosts the bonus hit rate from 1 in 211 to 1 in 49 spins — a major advantage for players targeting the Lucky Wagon round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 4 — Watch for xBomb chains:<\/strong> In the base game, focus on cascades with multiple xBomb Wilds active simultaneously. These chains produce the largest base game wins and occasionally unlock significant multipliers before the grid resets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 5 — Maximise the bonus round:<\/strong> During Lucky Wagon Free Spins, the Crystal Upgrade reel on spin 7 is critical. Upgrades that convert Dwarf or Dynamite enhancers to persistent status create the conditions for maximum win outcomes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Step 6 — Set responsible gambling limits:<\/strong> Always configure deposit, loss, and session time limits at your chosen online casino before beginning play. Fire in the Hole 2's extreme volatility makes disciplined bankroll management essential.<\/li>\n<\/ul>\n\n<h3>Mobile Compatibility: Play Fire in the Hole 2 on Any Device<\/h3>\n<p>Fire in the Hole 2 is built entirely in HTML5, making it fully compatible with every modern mobile device and browser without requiring a dedicated application download. Whether you play on an iOS iPhone, Android smartphone, or tablet, the slot's expandable grid layout and touch-optimised controls deliver the same experience as desktop play. The game file size is 38.2 MB, loading quickly on standard 4G\/5G and Wi-Fi connections. Portrait and landscape orientations are both supported, and all bonus features — including the xBet modifier, buy feature, and Lucky Wagon Free Spins — function identically across all devices at any licensed online casino offering the title.<\/p>\n\n<h3>Fire in the Hole 2 vs. Similar NoLimit City Mining Slots<\/h3>\n<p>How does Fire in the Hole 2 compare to other popular mining slots from the same developer and the broader online casino market? Below is a factual comparison covering the key parameters that matter to players worldwide.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #e68026;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Slot<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max Win<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #29201c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Fire in the Hole 2<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">65,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.07%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #382b24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Fire in the Hole<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">~60,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.05%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #29201c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Dead Canary<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">65,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.08%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #382b24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Misery Mining<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">70,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.08%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #29201c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Dwarven Gems MW<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">20,000x<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.00%<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Responsible Gambling & Session Management Tips<\/h3>\n<p>Fire in the Hole 2 is classified as an extreme-volatility online slot. All players are strongly encouraged to treat it as entertainment rather than a source of income. Before starting any real-money session, we recommend using the responsible gambling tools available at your licensed online casino: deposit limits, loss limits, cool-off periods, and self-exclusion options. The demo version of Fire in the Hole 2 is freely available without registration at many online casinos globally, allowing you to experience the full feature set — including the Lucky Wagon Free Spins and xBomb mechanic — without any financial risk. Responsible gaming organisations such as GamCare, BeGambleAware, and Gamblers Anonymous provide confidential support to anyone who feels their gaming habits may be causing harm. Always play within your means, and never chase losses on high-volatility games.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Fire in the Hole 2 slot?",
+                            "answer": "The top-tier Fire in the Hole 2 RTP is 96.07%, which is above the industry average for online slots. However, casinos can configure the game with reduced RTP settings of 94.08%, 92.07%, or 87.05%. Always check the info panel at your casino before playing to confirm the active RTP version."
+                        },
+                        {
+                            "title": "What is the maximum win in Fire in the Hole 2?",
+                            "answer": "The Fire in the Hole 2 max win is 65,000x your stake, achieved via the Lucky Wagon Free Spins round with persistent enhancers active. This translates to a €6,500 win on a €0.10 bet. The 65,000x cap has been hit multiple times by verified players at licensed online casinos globally."
+                        },
+                        {
+                            "title": "How does the Lucky Wagon Free Spins bonus work?",
+                            "answer": "Land 3, 4, or 5 Scatter symbols to trigger Lucky Wagon Free Spins. You begin with 3 free spins that reset every time a Coin lands. Enhancers like Dynamite, Beer, and Dwarf modifiers can be upgraded to persistent status via the 7th Crystal Upgrade reel, unlocking the biggest win potential."
+                        },
+                        {
+                            "title": "Can I buy the bonus in Fire in the Hole 2?",
+                            "answer": "Yes, a Bonus Buy feature is available for eligible players outside the UK. You can purchase the Lucky Wagon Free Spins for 70x, 200x, 600x, or 3,600x your stake depending on how many scatters you want. A Lucky Draw option costs 175x your stake and randomly selects one of the four scatter tiers."
+                        },
+                        {
+                            "title": "How volatile is Fire in the Hole 2 compared to other slots?",
+                            "answer": "Fire in the Hole 2 is rated 10 out of 10 on NoLimit City's volatility scale — the maximum possible. This extreme high-volatility profile means long dry spells are common, but wins when they arrive can be enormous. We recommend this slot for experienced players with a dedicated session bankroll."
+                        },
+                        {
+                            "title": "Is Fire in the Hole 2 available on mobile devices?",
+                            "answer": "Yes, Fire in the Hole 2 is fully mobile-compatible on all iOS and Android devices. Built in HTML5, the game runs directly in your mobile browser — no app required. All features including xBet, Bonus Buy, and Lucky Wagon Free Spins work identically on smartphones and tablets."
+                        },
+                        {
+                            "title": "What makes Fire in the Hole 2 different from the original?",
+                            "answer": "Fire in the Hole 2 improves on the original with a persistent enhancer system in the bonus round, powered by the new Crystal Upgrade reel. The max win has been increased from approximately 60,000x to 65,000x, and the overall math model is considered superior. The xSplit mechanic is also enhanced."
+                        },
+                        {
+                            "title": "Where can I play Fire in the Hole 2 for real money?",
+                            "answer": "Fire in the Hole 2 is available at licensed online casinos carrying NoLimit City's game portfolio. The slot is officially accessible in 56 countries globally. Always choose a regulated casino that displays the 96.07% RTP version and offers responsible gambling tools before depositing real money."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

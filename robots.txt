@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://fire-in-thehole2-slot.com/
+Sitemap: https://fire-in-thehole2-slot.com/sitemap.xml
